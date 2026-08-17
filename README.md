@@ -49,6 +49,6 @@ Después de ingresar los valores, se calculan:
 - Respuesta en t = tau
 - Tiempo de asentamiento al 2%
 
-FY se muestra la respuesta del sistema ante un escalón
+Y se muestra la respuesta del sistema ante un escalón
 unitario.
 
