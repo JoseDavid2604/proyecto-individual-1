@@ -52,14 +52,3 @@ Después de ingresar los valores, se calculan:
 FY se muestra la respuesta del sistema ante un escalón
 unitario.
 
-## Modelo utilizado
-
-La función de transferencia del sistema es:
-
-G(s) = KM / (tau*s + 1)
-
-donde:
-
-KM = Kt / (Ra*b + Kt*Kb)
-
-tau = (J*Ra) / (Ra*b + Kt*Kb)
