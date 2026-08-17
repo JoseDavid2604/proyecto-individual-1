@@ -33,7 +33,7 @@ El programa solicita los siguientes parámetros:
 
 ## Uso del programa
 
-Para ejecutar el programa se debe abrir el archivo
+El programa se debe abrir
 `proyecto_individual_1.m` en MATLAB y ejecutarlo.
 
 El programa solicita los valores de los parámetros por medio de
